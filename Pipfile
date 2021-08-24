@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 kaggle = "*"
 tensorflow = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
